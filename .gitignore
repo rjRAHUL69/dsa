@@ -1,0 +1,8 @@
+# Sab kuch ignore karo...
+*
+
+# ...lekin folders, .cpp files, README, aur khud .gitignore ko allow karo!
+!*/
+!*.cpp
+!README.md
+!.gitignore
