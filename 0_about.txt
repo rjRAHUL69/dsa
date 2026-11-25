@@ -1,0 +1,5 @@
+
+#to compile the vector if normally not work
+g++ -std=c++11 main.cpp -o main
+
+136,hw(binary search,reverse array)

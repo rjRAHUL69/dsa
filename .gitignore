@@ -4,5 +4,6 @@
 # ...lekin folders, .cpp files, README, aur khud .gitignore ko allow karo!
 !*/
 !*.cpp
+!*.txt
 !README.md
 !.gitignore
